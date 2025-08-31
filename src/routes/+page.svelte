@@ -38,7 +38,7 @@
     </div>
     <div
         bind:this={container}
-        class="bg-surface-700 h-[50dvh] w-full overflow-auto scroll-auto p-4"
+        class="bg-surface-700 h-[50dvh] w-full overflow-auto scroll-auto rounded-2xl p-4"
     >
         {#each logs as log}
             <p>{log}</p>

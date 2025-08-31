@@ -2,9 +2,13 @@
   "svelte.enable-ts-plugin": true,
   "cSpell.words": [
     "catppuccin",
+    "compatdata",
     "hamlindigo",
+    "localappdata",
     "seafoam",
     "skeletonlabs",
+    "steamapps",
+    "steamuser",
     "tauri",
     "Tauri",
     "TAURI",
